@@ -1,0 +1,12 @@
+footer {
+    background-color: #1c1f26;
+  font-size: 0.9rem;
+}
+
+footer ul li {
+  margin-bottom: 0.5rem;
+}
+
+footer input::placeholder {
+  font-style: italic;
+}

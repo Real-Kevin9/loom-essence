@@ -13,12 +13,11 @@ export default function Navbar() {
           <span className="">LOOM ESSENCE</span>
         </Link>
 
-        <div className="d-flex align-items-center gap-3 fs-4 px-5">
+        <div className="d-flex align-items-center gap-4 fs-4 px-5">
           <i className="bi bi-bag" />
           <i className="bi bi-person" />
           <i className="bi bi-search" />
-          <i className="bi bi-list" />
-          <span>Menu</span>
+          <span><i className="bi bi-list" />Menu</span>          
         </div>
       </div>
     </nav>
