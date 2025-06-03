@@ -16,7 +16,7 @@ const Footer = () => {
               <input type="email" className="form-control w-50 me-2" placeholder="you@example.com" />
               <button type="submit" className="btn btn-light text-dark">Submit</button>
             </form>
-            <p className="mt-2 small">Stay up to date with the Loom Newsletter.</p>
+            <p className="mt-2">Stay up to date with the Loom Newsletter.</p>
           </div>
         </div>
 
@@ -30,7 +30,7 @@ const Footer = () => {
               <li><a href="#" className="text-light text-decoration-underline">FAQs</a></li>
               <li><a href="#" className="text-light text-decoration-underline">Email Unsubscribe</a></li>
             </ul>
-            <h6 className="text-uppercase fw-bold mt-3 small">Loom Services</h6>
+            <h6 className="text-uppercase fw-bold mt-5 small">Loom Services</h6>
             <ul className="list-unstyled">
               <li><a href="#" className="text-light text-decoration-underline">Discover Our Services</a></li>
             </ul>
@@ -59,7 +59,7 @@ const Footer = () => {
             <form>
               <input type="email" className="form-control mb-2" placeholder="Email" />
             </form>
-            <p className="small">Country/Region</p>
+            <p>Country/Region</p>
             <a href="#" className="text-light text-decoration-underline">Nepal - South Asia</a>
           </div>
 
